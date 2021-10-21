@@ -3,9 +3,9 @@
 
 // ikRockArrowFunctions()
 
-let a = 12;
+let a = 10;
 
-const fivePlusSeven = myFunction => a + 5
+const fivePlusSeven = myFunction => a + 8
 
 fivePlusSeven()
 
